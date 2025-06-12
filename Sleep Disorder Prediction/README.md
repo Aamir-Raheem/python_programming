@@ -107,12 +107,6 @@ It contains anonymized health and lifestyle attributes of individuals, along wit
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
----
-
 ## 🙌 Acknowledgments
 
 - LightGBM by Microsoft
