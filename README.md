@@ -9,7 +9,9 @@ This project is a **Flask web application** powered by a **K-Nearest Neighbour (
 
 A simple and intuitive web form allows users to input the flower's measurements. Once submitted, the trained model processes the input and displays the predicted species.
 
-[![Sleep Disorder App Screenshot](sleep_disorder_app.png)](https://github.com/Aamir-Raheem/python_programming/blob/main/Sleep%20Disorder%20Prediction/sleep-disorder-app.png)
+![Iris App Screenshot](iris.png)
+
+---
 
 ## 🧠 Model Overview
 
