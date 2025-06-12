@@ -8,7 +8,7 @@ This project is a machine learning-powered **Flask web application** that predic
 
 A simple web form allows users to enter their details such as age, gender, stress levels, sleep duration, etc. Once submitted, the model processes the input and displays the predicted sleep disorder category.
 
-![Sleep Disorder App Screenshot](sleep%20disorder%20app.png)
+![Sleep Disorder App Screenshot]([sleep%20disorder%20app.png](https://github.com/Aamir-Raheem/python_programming/blob/main/Sleep%20Disorder%20Prediction/sleep%20disorder%20app.png))
 
 ---
 
