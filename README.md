@@ -9,8 +9,7 @@ This project is a **Flask web application** powered by a **K-Nearest Neighbour (
 
 A simple and intuitive web form allows users to input the flower's measurements. Once submitted, the trained model processes the input and displays the predicted species.
 
-[![Iris App Screenshot](iris_app_screenshot.png)](https://github.com/Aamir-Raheem/python_programming/blob/main/Iris%20Species%20Prediction/iris_app_screenshot.png)
-
+[![Iris App Screenshot](iris.png)](https://github.com/Aamir-Raheem/python_programming/blob/main/Iris%20Prediction%20Using%20KNN/iris.png)
 ---
 
 ## 🧠 Model Overview
