@@ -103,7 +103,7 @@ It contains floral measurements and species labels for 150 iris flowers, commonl
 **Aamir Bin Raheem**  
 📧 [aamirraheem6@gmail.com](mailto:aamirraheem6@gmail.com)  
 📍 Hyderabad, India  
-💼 [LinkedIn](#) *(Add your profile URL)*
+💼 [LinkedIn](https://www.linkedin.com/in/aamir-raheem-a8b3541b3/)
 
 ---
 
