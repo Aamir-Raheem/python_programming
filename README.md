@@ -43,7 +43,7 @@ Installation and Setup
     Clone the repository:
     ```Bash
 
-git clone [https://github.com/YourUsername/Iris-Flower-Prediction.git](https://github.com/YourUsername/Iris-Flower-Prediction.git)
+git clone [https://github.com/YourUsername/Iris-Flower-Prediction.git](https://github.com/Aamir-Raheem/Iris-Flower-Prediction.git)
 cd Iris-Flower-Prediction
 
 (Replace YourUsername with your actual GitHub username)
