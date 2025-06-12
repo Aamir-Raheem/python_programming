@@ -1,3 +1,4 @@
+````markdown
 # Iris Flower Species Prediction using K-Nearest Neighbors (KNN)
 
 This project demonstrates a simple web application that predicts the species of an Iris flower based on its sepal length, sepal width, petal length, and petal width. The prediction model is built using the K-Nearest Neighbors (KNN) algorithm and deployed using Flask.
@@ -34,56 +35,65 @@ Make sure you have Python installed. This project uses several Python libraries 
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib flask
+````
 
-Installation and Setup
+### Installation and Setup
 
-    Clone the repository:
-    Bash
+1.  **Clone the repository:**
 
-git clone [https://github.com/Aamir-Raheem/Iris-Flower-Prediction.git](https://github.com/Aamir-Raheem/Iris-Flower-Prediction.git)
-cd Iris-Flower-Prediction
+    ```bash
+    git clone [https://github.com/Aamir-Raheem/Iris-Flower-Prediction.git](https://github.com/Aamir-Raheem/Iris-Flower-Prediction.git)
+    cd Iris-Flower-Prediction
+    ```
 
-Train and Save the Model (if KNN.pkl or scaler.pkl are missing or outdated):
-First, ensure you have the Iris.csv file in the correct location (as referenced in IRIS USING KNN.py).
-Run the IRIS USING KNN.py script to train the model and save it as KNN.pkl and scaler.pkl (if applicable).
-Bash
+2.  **Train and Save the Model (if `KNN.pkl` or `scaler.pkl` are missing or outdated):**
+    First, ensure you have the `Iris.csv` file in the correct location (as referenced in `IRIS USING KNN.py`).
+    Run the `IRIS USING KNN.py` script to train the model and save it as `KNN.pkl` and `scaler.pkl` (if applicable).
 
-python "IRIS USING KNN.py"
+    ```bash
+    python "IRIS USING KNN.py"
+    ```
 
-Run the Flask Application:
-Ensure you have KNN.pkl, scaler.pkl (if used), and index.html in the same directory as app_iris.py.
-Then, run the Flask application:
-Bash
+3.  **Run the Flask Application:**
+    Ensure you have `KNN.pkl`, `scaler.pkl` (if used), and `index.html` in the same directory as `app_iris.py`.
+    Then, run the Flask application:
 
+    ```bash
     python app_iris.py
+    ```
 
-    Access the Web Application:
-    Open your web browser and navigate to the address provided in your terminal (usually http://127.0.0.1:5000/).
+4.  **Access the Web Application:**
+    Open your web browser and navigate to the address provided in your terminal (usually `http://127.0.0.1:5000/`).
 
-How to Use
+## How to Use
 
-    On the web page, you will see input fields for:
-        Sepal Length
-        Sepal Width
-        Petal Length
-        Petal Width
-    Enter the numerical measurements for an Iris flower.
-    Click the "Predict" button.
-    The predicted Iris species will be displayed below the form.
+1.  On the web page, you will see input fields for:
+      * Sepal Length
+      * Sepal Width
+      * Petal Length
+      * Petal Width
+2.  Enter the numerical measurements for an Iris flower.
+3.  Click the "Predict" button.
+4.  The predicted Iris species will be displayed below the form.
 
-Model Details
+## Model Details
 
-    Algorithm: K-Nearest Neighbors (KNN)
-    Dataset: Iris dataset (Iris.csv)
-    Training Split: 80% training, 20% testing
-    Preprocessing: StandardScaler is used to scale features.
+  * **Algorithm:** K-Nearest Neighbors (KNN)
+  * **Dataset:** Iris dataset (`Iris.csv`)
+  * **Training Split:** 80% training, 20% testing
+  * **Preprocessing:** `StandardScaler` is used to scale features.
 
-Contributing
+## Contributing
 
 Feel free to fork this repository, make improvements, and submit pull requests.
-License
 
-This project is open source and available under the MIT License.
-Contact
+## License
+
+This project is open source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
+
+## Contact
 
 Aamir Bin Raheem - aamirraheem66@gmail.com
+
+```
+```
