@@ -1,5 +1,3 @@
-Markdown
-
 # Iris Flower Species Prediction using K-Nearest Neighbors (KNN)
 
 This project demonstrates a simple web application that predicts the species of an Iris flower based on its sepal length, sepal width, petal length, and petal width. The prediction model is built using the K-Nearest Neighbors (KNN) algorithm and deployed using Flask.
@@ -34,19 +32,16 @@ Follow these instructions to set up and run the project locally.
 
 Make sure you have Python installed. This project uses several Python libraries which can be installed via `pip`.
 
-    ```bash
-    pip install numpy pandas scikit-learn matplotlib flask
-    
+```bash
+pip install numpy pandas scikit-learn matplotlib flask
 
 Installation and Setup
 
     Clone the repository:
-    ```Bash
+    Bash
 
-git clone [https://github.com/YourUsername/Iris-Flower-Prediction.git](https://github.com/Aamir-Raheem/Iris-Flower-Prediction.git)
+git clone [https://github.com/Aamir-Raheem/Iris-Flower-Prediction.git](https://github.com/Aamir-Raheem/Iris-Flower-Prediction.git)
 cd Iris-Flower-Prediction
-
-(Replace YourUsername with your actual GitHub username)
 
 Train and Save the Model (if KNN.pkl or scaler.pkl are missing or outdated):
 First, ensure you have the Iris.csv file in the correct location (as referenced in IRIS USING KNN.py).
@@ -88,7 +83,7 @@ Contributing
 Feel free to fork this repository, make improvements, and submit pull requests.
 License
 
-This project is open source and available under the MIT License (or choose your preferred license).
+This project is open source and available under the MIT License.
 Contact
 
-Aamir Bin Raheem - [Your Email Address] (Optional)
+Aamir Bin Raheem - aamirraheem66@gmail.com
