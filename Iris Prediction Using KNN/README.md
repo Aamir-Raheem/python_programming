@@ -107,12 +107,6 @@ It contains floral measurements and species labels for 150 iris flowers, commonl
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See `LICENSE` for more details.
-
----
-
 ## 🙌 Acknowledgments
 
 - UCI Machine Learning Repository for the Iris dataset  
