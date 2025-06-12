@@ -34,8 +34,9 @@ Follow these instructions to set up and run the project locally.
 
 Make sure you have Python installed. This project uses several Python libraries which can be installed via `pip`.
 
-```bash
-pip install numpy pandas scikit-learn matplotlib flask
+    ```bash
+    pip install numpy pandas scikit-learn matplotlib flask
+    '''
 
 Installation and Setup
 
