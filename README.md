@@ -36,12 +36,12 @@ Make sure you have Python installed. This project uses several Python libraries 
 
     ```bash
     pip install numpy pandas scikit-learn matplotlib flask
-    '''
+    
 
 Installation and Setup
 
     Clone the repository:
-    Bash
+    ```Bash
 
 git clone [https://github.com/YourUsername/Iris-Flower-Prediction.git](https://github.com/YourUsername/Iris-Flower-Prediction.git)
 cd Iris-Flower-Prediction
