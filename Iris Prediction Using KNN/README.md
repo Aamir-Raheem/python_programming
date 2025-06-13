@@ -65,7 +65,7 @@ Iris-Species-Prediction/
 ### 🔧 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Iris-Species-Prediction.git
+git clone https://github.com/Aamir-Raheem/Iris-Species-Prediction.git
 cd Iris-Species-Prediction
 ```
 
