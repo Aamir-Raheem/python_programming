@@ -156,7 +156,8 @@ GROUP BY products.product_type;
 
 ##  Findings
 
-- Product type `"Own Brand"` contained a hidden carriage return  cleaned using `REPLACE()`
+- Product type `"Own Brand
+"` contained a hidden carriage return  cleaned using `REPLACE()`
 - Two zone values were stored as empty strings (`''`), not NULL
 - Some transactions referenced invalid `product_code`s not present in the `products` table
 - "Own Brand" products generated more transactions than "Distribution"
