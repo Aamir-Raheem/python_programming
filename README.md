@@ -8,7 +8,7 @@ This project predicts **company profit** based on investments in different areas
 
 A simple web form allows users to enter details such as the amount spent on digital marketing, promotions, R&D, and the business location (state). Once submitted, the model processes the input and returns the predicted profit.
 
-[![Investment Prediction app Screenshot](MLR_app.png)](https://github.com/Aamir-Raheem/python_programming/blob/main/Investment%20Prediction/MLR%20app.png)
+[![Investment Prediction app Screenshot](MLR_app.png)](https://github.com/Aamir-Raheem/python_programming/blob/main/Investment%20Prediction/MLR_app.png)
 
 
 ---
