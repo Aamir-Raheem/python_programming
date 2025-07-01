@@ -55,7 +55,7 @@ The dashboard includes the following metrics:
 
 Below is a snapshot of the dashboard showing interactive visualizations and KPIs built using DAX and Power Query.
 
-[![Sales Dashboard Screenshot](INSERT_SCREENSHOT_HERE)](INSERT_GITHUB_IMAGE_LINK)
+[![Sales Dashboard Screenshot](Sales_Dashboard.png)](https://github.com/Aamir-Raheem/python_programming/blob/main/Sales%20Analysis/Dashboard/sales_dashboard.png)
 
 ---
 
